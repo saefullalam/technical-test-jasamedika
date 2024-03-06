@@ -41,7 +41,8 @@ Buatlah query untuk :
 >  ![image](https://github.com/saefullalam/technical-test-jasamedika/assets/47917349/460a627f-933a-4a21-94c8-0a16f432307a)
 
 > (**case 6**) menampilkan 5 nama lengkap customer dengan pengeluaran paling banyak, disertai dengan informasi produk apa saja yang pernah dibeli (unique), dan informasi toko mana saja tempat produk tersebut dijual (unique)
-![image](https://github.com/saefullalam/technical-test-jasamedika/assets/47917349/7a561bff-cc21-4e2e-aace-2246f427b630)
+
+> ![image](https://github.com/saefullalam/technical-test-jasamedika/assets/47917349/7a561bff-cc21-4e2e-aace-2246f427b630)
 
 
 # SELAMAT MENGERJAKAN, SUKSES SELALU
